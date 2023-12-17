@@ -1,0 +1,38 @@
+
+
+.h1{
+    color:yellow;
+    margin-top: 100px;
+    margin-left: 200px;
+    font-size: 50px;;
+    
+}
+.h2{
+    color: white;
+    font-size: 50px;;
+    margin-top: 100px;
+   
+}
+.di{
+   margin-top: 100px;
+   margin-left: 300px;
+   text-align: center;
+}
+.d2{
+  display: flex;
+   ;
+}
+.d3{
+    display: flex;
+}
+.d4{
+    display: flex;
+}
+.d5{
+    display: flex;
+}
+.total{
+    margin-left: 100px;
+    margin-top: 150px;
+  
+}

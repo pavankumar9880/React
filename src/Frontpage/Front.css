@@ -1,0 +1,59 @@
+
+
+.div{
+    height: 720px;
+    width: 1300px;
+    background:linear-gradient(to top,rgba(0,0,0,0.4)50%,rgba(0,0,0,0.4)50%),url(../IMAGES//img4.gif);
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+
+    
+    
+}
+.he{
+    color: darkblue;
+    font-size: 70px;
+    position: absolute;
+    
+    top:80px;
+    left: 60px;
+}
+.spa{
+    color: #ff7200;
+    position: absolute;
+    top:380px;
+    left: 60px;
+    font-size: 49px;
+
+}
+.div2{
+    position: absolute;
+    top: 450px;
+    color: whitesmoke;
+    font-size: 30px;
+    left: 60px;
+    align-items:center;
+    line-height: 60px;
+
+}
+.spa{
+    color: yellow;
+
+}
+.sap5{
+    position: absolute;
+    top: 260px;
+    left: 60px;
+    color: lemonchiffon;
+    font-size: 24px;
+}
+.sap7{
+    position: absolute;
+    top: 300px;
+    left: 60px;
+    color:lemonchiffon;
+    font-size: 40px;
+    font-family: bold;
+}
