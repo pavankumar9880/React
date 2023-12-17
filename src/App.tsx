@@ -9,6 +9,7 @@ import { Frontpage } from './Frontpage/Frontpage';
 import { About } from './about/About';
 import { Education } from './Education/Education';
 import {Myskills} from './Skills/Myskills';
+import Image from './IMAGES/img3.jpg';
 
 
 
@@ -59,6 +60,7 @@ export default function VerticalTabs() {
     <Box
       sx={{ flexGrow: 6, bgcolor: 'black', display: 'flex', height: 1,tabSize:'40px'}}
       > <div className='pa'>
+        <img src={Image} alt="hii"/>
       <Tabs
      
       

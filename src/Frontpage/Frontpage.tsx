@@ -10,7 +10,7 @@ export const Frontpage:React.FC<{}>=()=>{
    <div className="div">
    <h1 className="he">Portfolio</h1>
    <span className="sap5">Hello, It's Me</span>
-   <span className="sap7">PAVAN </span>
+   <span className="sap7">PAVAN KUMAR</span>
    <span className="spa">Web Developer</span> 
    <div className="div2">
    <span className="spa1">Custom website Devolpment</span><br/>
