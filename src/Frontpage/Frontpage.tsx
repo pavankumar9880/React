@@ -17,7 +17,7 @@ export const Frontpage:React.FC<{}>=()=>{
    <span className="spa2">
     UI UX Devolpment, UI Designing  services
    </span><br />
-   <span className="spa3"> Technologies : Html,Css,Javascript,Typescript,ReactJs,AngularJs,Java,MnagoDb,Mqsql</span>
+   <span className="spa3"> Technologies : Html,Css,Javascript,Typescript,ReactJs,AngularJs,Java,MangoDb,Mqsql</span>
   
    </div>
    
