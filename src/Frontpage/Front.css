@@ -57,3 +57,12 @@
     font-size: 40px;
     font-family: bold;
 }
+
+    
+@media speech and (min-width:810px){
+.div h1 span{
+    width:50%;
+    float:left;
+
+}
+}
